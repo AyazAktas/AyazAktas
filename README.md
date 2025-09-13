@@ -7,12 +7,10 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🔬 Researcher in **AI-powered healthcare** (AIDCARE System – Dynamic Insulin Dosage Adjustment)  
-- 📱 Experienced in **Android (Kotlin, Firebase, Retrofit, Room)**  
-- 🌍 Built multiple clones & applications (e-commerce, banking, autonomous driving)  
-- 🧠 Strong focus on **Machine Learning, Deep Learning (CNN, YOLOv8)** and **LLM integration**  
-- 🚀 Love solving real-world problems with **AI + Software Engineering**
+## 👤 About Me
+- Computer Engineering student at **Kocaeli University**  
+- Experienced in **Artificial Intelligence, Android Development** and **Django REST APIs**  
+- Interested in creating **minimal, AI-driven and user-focused software applications**
 
 ---
 
@@ -47,6 +45,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
 
+---
+
+## 💼 Experience  
+
+**Kocaeli University – Computer Networks Lab & TÜSEB (AIDCARE Project)**  
+*Software Developer & Research Contributor* (Dec 2024 – Sep 2025)  
+- Designed & developed **Django RESTful backend services**  
+- Integrated **signal triggers** into mobile applications  
+- Built Android apps with **Kotlin + Firebase + Retrofit**  
+- Trained **Machine Learning models** and integrated **LLMs**  
+- Contributed to research on an **AI-powered healthcare system** for dynamic insulin dosage adjustment  
+- Published a paper in *Engineering Proceedings (MDPI)*
+- 
 ---
 
 ## 📊 GitHub Stats
