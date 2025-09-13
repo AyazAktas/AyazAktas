@@ -57,7 +57,7 @@
 - Trained **Machine Learning models** and integrated **LLMs**  
 - Contributed to research on an **AI-powered healthcare system** for dynamic insulin dosage adjustment  
 - Published a paper in *Engineering Proceedings (MDPI)*
-- 
+
 ---
 
 ## 📊 GitHub Stats
