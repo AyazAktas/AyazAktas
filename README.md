@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ayaz Aktaş  
 
 🎓 Computer Engineering Student at **Kocaeli University**  
-💻 Passionate about **Backend Development, Android Apps & AI**  
+💻 Passionate about **Android Apps & AI, Backend Development**  
 📚 Currently working on **AI-enabled healthcare systems** & **Deep Learning projects**  
 🌐 [Portfolio Website](https://ayazaktas.netlify.app) | [LinkedIn](https://www.linkedin.com/in/ayaz-aktas/) | [GitHub](https://github.com/AyazAktas)
 
