@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Stats
 ![Ayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyazAktas&show_icons=true&theme=radical)   
-[![GitHub Streak](https://streak-stats.demolab.com?user=AyazAktas&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=AyazAktas&theme=neon&hide_border=false)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyazAktas&layout=compact&theme=radical)
 
 ---
