@@ -61,7 +61,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Ayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyazAktas&show_icons=true&theme=radical)  
+![Ayaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyazAktas&show_icons=true&theme=radical)   
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyazAktas&layout=compact&theme=radical)
 
