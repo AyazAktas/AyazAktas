@@ -5,12 +5,6 @@
 📚 Currently working on **AI-enabled healthcare systems** & **Deep Learning projects**  
 🌐 [Portfolio Website](https://ayazaktas.netlify.app) | [LinkedIn](https://www.linkedin.com/in/ayaz-aktas/) | [GitHub](https://github.com/AyazAktas)
 
----
-
-## 👤 About Me
-- Computer Engineering student at **Kocaeli University**  
-- Experienced in **Artificial Intelligence, Android Development** and **Django REST APIs**  
-- Interested in creating **minimal, AI-driven and user-focused software applications**
 
 ---
 
